@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=url
+comment0.target=void\ findLink(java.lang.String)
+comment1.params=
+comment1.target=void\ test()
+comment2.params=url
+comment2.target=edu.duke.StorageResource\ findUrls(java.lang.String)
+comment3.params=
+comment3.target=edu.duke.StorageResource\ findUrls()
+comment4.params=urls
+comment4.target=int\ findSecureLinks(edu.duke.StorageResource)
+comment5.params=urls
+comment5.target=int\ printComLinks(edu.duke.StorageResource)
+comment6.params=urls
+comment6.target=int\ printComEndLinks(edu.duke.StorageResource)
+comment7.params=urls
+comment7.target=int\ printDotCount(edu.duke.StorageResource)
+comment8.params=
+comment8.target=void\ testURLWithStorage()
+numComments=9
